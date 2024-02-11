@@ -1,0 +1,506 @@
+{
+  "status": true,
+  "creator": "akuivan13",
+  "result": [
+    {
+      "id": 1,
+      "title": "Van Apa iya?",
+      "respon": "Iyain Deh?"
+    },
+    {
+      "id": 2,
+      "title": "Van Kamu Siapa?",
+      "respon": "Maless Kepo?"
+    },
+    {
+      "id": 3,
+      "title": "Van Ada Pacar?",
+      "respon": "Tidak ada?"
+    },
+    {
+      "id": 4,
+      "title": "Van Kamu Dimana?",
+      "respon": "Aku Tidak Bisa Menjelaskan Aku Dimana"
+    },
+    {
+      "id": 5,
+      "title": "Van Apa Kabar?",
+      "respon": "Aku Baik Baik Saja,Kamu Sendiri Gimana?"
+    },
+    {
+      "id": 6,
+      "title": "Van Punya Hobi?",
+      "respon": "Ngoding, Main Game, Baca Buku"
+    },
+    {
+      "id": 7,
+      "title": "Van Berapa Umurmu?",
+      "respon": "Rahasia Dong!"
+    },
+    {
+      "id": 8,
+      "title": "Van Sudah Makan?",
+      "respon": "Belum, Kamu?"
+    },
+    {
+      "id": 9,
+      "title": "Van Senang dengan Siapa?",
+      "respon": "Teman-teman, Keluarga"
+    },
+    {
+      "id": 10,
+      "title": "Van Punya Binatang Peliharaan?",
+      "respon": "Ya, Punya Kucing bernama Momo"
+    },
+    {
+      "id": 11,
+      "title": "Van Punya Mimpi?",
+      "respon": "Punya banyak mimpi!"
+    },
+    {
+      "id": 12,
+      "title": "Van Punya Adik atau Kakak?",
+      "respon": "Punya Adik"
+    },
+    {
+      "id": 13,
+      "title": "Van Bisa Berenang?",
+      "respon": "Bisa sedikit"
+    },
+    {
+      "id": 14,
+      "title": "Van Punya Hobby Menggambar?",
+      "respon": "Suka menggambar saat senggang"
+    },
+    {
+      "id": 15,
+      "title": "Van Pernah Ke Luar Negeri?",
+      "respon": "Belum pernah"
+    },
+    {
+      "id": 16,
+      "title": "Van Pernah Mendaki Gunung?",
+      "respon": "Belum pernah, tapi ingin mencoba suatu saat"
+    },
+    {
+      "id": 17,
+      "title": "Van Punya Tokoh Inspiratif?",
+      "respon": "Ada, Elon Musk"
+    },
+    {
+      "id": 18,
+      "title": "Van Punya Keterampilan Unik?",
+      "respon": "Bisa jongkok sambil jongkok"
+    },
+    {
+      "id": 19,
+      "title": "Van Punya Rekomendasi Film?",
+      "respon": "Inception, Interstellar, The Shawshank Redemption"
+    },
+    {
+      "id": 20,
+      "title": "Van Punya Makanan Favorit?",
+      "respon": "Sushi!"
+    },
+    {
+      "id": 21,
+      "title": "Van Pernah Membaca Buku Harry Potter?",
+      "respon": "Sudah, dan suka!"
+    },
+    {
+      "id": 22,
+      "title": "Van Punya Lagu Favorit?",
+      "respon": "Bohemian Rhapsody oleh Queen"
+    },
+    {
+      "id": 23,
+      "title": "Van Bisa Memasak?",
+      "respon": "Bisa memasak masakan sederhana"
+    },
+    {
+      "id": 24,
+      "title": "Van Punya Koleksi Barang Tertentu?",
+      "respon": "Koleksi mainan action figure"
+    },
+    {
+      "id": 25,
+      "title": "Van Pernah Naik Kapal Pesiar?",
+      "respon": "Belum pernah, tapi ingin mencoba"
+    },
+    {
+      "id": 26,
+      "title": "Van Punya Akun Media Sosial?",
+      "respon": "Ya, punya beberapa"
+    },
+    {
+      "id": 27,
+      "title": "Van Punya Cita-cita?",
+      "respon": "Mencapai kesuksesan dalam karier"
+    },
+    {
+      "id": 28,
+      "title": "Van Pernah Melakukan Pelayaran?",
+      "respon": "Belum pernah"
+    },
+    {
+      "id": 29,
+      "title": "Van Punya Olahraga Favorit?",
+      "respon": "Sepak bola"
+    },
+    {
+      "id": 30,
+      "title": "Van Pernah Naik Balon Udara?",
+      "respon": "Belum pernah"
+    },
+    {
+      "id": 31,
+      "title": "Van Pernah Terlibat dalam Voluntir?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 32,
+      "title": "Van Punya Alergi Makanan?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 33,
+      "title": "Van Punya Impian?",
+      "respon": "Memiliki rumah impian"
+    },
+    {
+      "id": 34,
+      "title": "Van Punya Penyakit Kronis?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 35,
+      "title": "Van Pernah Terlibat dalam Pameran Seni?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 36,
+      "title": "Van Pernah Bermain di Musikal?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 37,
+      "title": "Van Punya Koleksi Barang Antik?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 38,
+      "title": "Van Punya Penyakit Menular?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 39,
+      "title": "Van Pernah Berpartisipasi dalam Kompetisi Olahraga?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 40,
+      "title": "Van Pernah Bermain Bola Basket?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 41,
+      "title": "Van Punya Alamat Email?",
+      "respon": "Ya, punya"
+    },
+    {
+      "id": 42,
+      "title": "Van Pernah Membuat Video TikTok?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 43,
+      "title": "Van Pernah Membuat Karya Seni?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 44,
+      "title": "Van Punya Pengalaman Menarik di Sekolah?",
+      "respon": "Ya, banyak"
+    },
+    {
+      "id": 45,
+      "title": "Van Punya Keahlian Memperbaiki Kendaraan?",
+      "respon": "Tidak, tapi bisa mencoba"
+    },
+    {
+      "id": 46,
+      "title": "Van Punya Pengetahuan dalam Kedokteran?",
+      "respon": "Sedikit"
+    },
+    {
+      "id": 47,
+      "title": "Van Pernah Mengikuti Kursus Online?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 48,
+      "title": "Van Punya Pengalaman Travelling yang Menarik?",
+      "respon": "Ya, banyak"
+    },
+    {
+      "id": 49,
+      "title": "Van Pernah Terlibat dalam Proyek Sosial?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 50,
+      "title": "Van Punya Pengalaman Menulis Buku?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 51,
+      "title": "Van Pernah Bermain Peran di Teater?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 52,
+      "title": "Van Punya Rekomendasi Tempat Wisata?",
+      "respon": "Gunung Bromo di Indonesia"
+    },
+    {
+      "id": 53,
+      "title": "Van Punya Pengalaman Bermain di Taman Hiburan?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 54,
+      "title": "Van Punya Keterampilan Memasak Kue?",
+      "respon": "Tidak, tapi ingin belajar"
+    },
+    {
+      "id": 55,
+      "title": "Van Pernah Terlibat dalam Proyek Pendidikan?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 56,
+      "title": "Van Punya Keterampilan Memasak Masakan Tradisional?",
+      "respon": "Ya, bisa"
+    },
+    {
+      "id": 57,
+      "title": "Van Pernah Berpartisipasi dalam Festival Musik?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 58,
+      "title": "Van Punya Rekomendasi Musik Klasik?",
+      "respon": "Beethoven - Symphony No. 9"
+    },
+    {
+      "id": 59,
+      "title": "Van Pernah Mengikuti Pelatihan Manajemen Waktu?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 60,
+      "title": "Van Pernah Membeli Barang Bekas?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 61,
+      "title": "Van Punya Koleksi Barang dari Luar Negeri?",
+      "respon": "Ya, punya"
+    },
+    {
+      "id": 62,
+      "title": "Van Pernah Mengikuti Pelatihan Keterampilan?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 63,
+      "title": "Van Pernah Berpartisipasi dalam Lomba Menulis?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 64,
+      "title": "Van Punya Rekomendasi Buku Bisnis?",
+      "respon": "Lean Startup oleh Eric Ries"
+    },
+    {
+      "id": 65,
+      "title": "Van Pernah Bermain di Lapangan Golf?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 66,
+      "title": "Van Punya Pengalaman Bermain di Arena Laser Tag?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 67,
+      "title": "Van Punya Rekomendasi Film Komedi?",
+      "respon": "The Hangover"
+    },
+    {
+      "id": 68,
+      "title": "Van Pernah Terlibat dalam Proyek IT?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 69,
+      "title": "Van Punya Koleksi Barang Kuno?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 70,
+      "title": "Van Pernah Membuat Website?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 71,
+      "title": "Van Punya Pengetahuan dalam Seni Lukis?",
+      "respon": "Sedikit"
+    },
+    {
+      "id": 72,
+      "title": "Van Pernah Mengikuti Program Kesehatan?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 73,
+      "title": "Van Punya Rekomendasi Film Romantis?",
+      "respon": "The Notebook"
+    },
+    {
+      "id": 74,
+      "title": "Van Pernah Mengikuti Kursus Bahasa Asing?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 75,
+      "title": "Van Pernah Terlibat dalam Proyek Desain?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 76,
+      "title": "Van Punya Pengalaman Bermain di Arena Paintball?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 77,
+      "title": "Van Pernah Mengikuti Seminar Bisnis?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 78,
+      "title": "Van Pernah Terlibat dalam Proyek Penelitian?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 79,
+      "title": "Van Punya Rekomendasi Film Thriller?",
+      "respon": "Se7en"
+    },
+    {
+      "id": 80,
+      "title": "Van Pernah Melakukan Terapi Seni?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 81,
+      "title": "Van Punya Pengalaman Bermain di Taman Bermain?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 82,
+      "title": "Van Pernah Mengikuti Kursus Musik?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 83,
+      "title": "Van Punya Rekomendasi Film Animasi?",
+      "respon": "Spirited Away"
+    },
+    {
+      "id": 84,
+      "title": "Van Pernah Terlibat dalam Proyek Keamanan?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 85,
+      "title": "Van Punya Pengalaman Bermain di Kasino?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 86,
+      "title": "Van Pernah Mengikuti Kursus Komunikasi?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 87,
+      "title": "Van Punya Rekomendasi Film Drama?",
+      "respon": "Forrest Gump"
+    },
+    {
+      "id": 88,
+      "title": "Van Pernah Terlibat dalam Proyek Konstruksi?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 89,
+      "title": "Van Punya Pengalaman Bermain di Taman Air?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 90,
+      "title": "Van Pernah Mengikuti Kursus Fotografi?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 91,
+      "title": "Van Punya Rekomendasi Film Horor?",
+      "respon": "The Conjuring"
+    },
+    {
+      "id": 92,
+      "title": "Van Pernah Terlibat dalam Proyek Teknologi?",
+      "respon": "Ya, sering"
+    },
+    {
+      "id": 93,
+      "title": "Van Punya Pengalaman Bermain di Arena Trampolin?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 94,
+      "title": "Van Pernah Mengikuti Kursus Pemasaran?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 95,
+      "title": "Van Punya Rekomendasi Film Sci-Fi?",
+      "respon": "The Matrix"
+    },
+    {
+      "id": 96,
+      "title": "Van Pernah Terlibat dalam Proyek Energi Terbarukan?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 97,
+      "title": "Van Punya Pengalaman Bermain di Arena Go-Kart?",
+      "respon": "Tidak"
+    },
+    {
+      "id": 98,
+      "title": "Van Pernah Mengikuti Kursus Keuangan?",
+      "respon": "Ya, pernah"
+    },
+    {
+      "id": 99,
+      "title": "Van Punya Rekomendasi Film Action?",
+      "respon": "John Wick"
+    },
+    {
+      "id": 100,
+      "title": "Van Pernah Terlibat dalam Proyek Pertanian?",
+      "respon": "Tidak"
+    }
+  ]
+}
